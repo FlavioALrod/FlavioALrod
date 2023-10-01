@@ -1,21 +1,16 @@
-###<h1 align="center"> 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 𝙿𝚁𝙾𝙵𝙸𝙻𝙴 😎</h1>
->feel free and see my projects
 
-![women, black hair, bangs, women with glasses, looking at viewer] (https://r4.wallpaperflare.com/wallpaper/175/418/374/women-black-hair-bangs-women-with-glasses-glasses-hd-wallpaper-d7bb7e0148ed92aa9c420b5c4238fdf0.jpg)
+<h1 align="center" style="color: red;"> 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝙼𝚈 𝙿𝚁𝙾𝙵𝙸𝙻𝙴 😎</h1>
+
+<h2><strong>Feel free and see my projects</strong></h2>
+
+![women, black hair, bangs, women with glasses, looking at viewer](https://r4.wallpaperflare.com/wallpaper/175/418/374/women-black-hair-bangs-women-with-glasses-glasses-hd-wallpaper-d7bb7e0148ed92aa9c420b5c4238fdf0.jpg)
 
 
 
-<!--
-**FlavioALrod/FlavioALrod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+>"Às vezes sonhamos em salvar o mundo, às vezes sonhamos em conseguir uma casa bacana, às vezes apenas queremos alguém que nos ame e às vezes queremos apenas um abraço. Hoje eu quero apenas resolver aquele bendito bug." - Eu mesmo....
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## [💻 Veja Meu Portfolio Clicando aqui](https://www.notion.so/Meus-Blog-5c33a2863bc244d782964700d7616c7b?pvs=4)  
+
+
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
