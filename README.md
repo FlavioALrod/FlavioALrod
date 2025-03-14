@@ -8,7 +8,7 @@
 
 
 
->"Às vezes sonhamos em salvar o mundo, às vezes sonhamos em conseguir uma casa bacana, às vezes apenas queremos alguém que nos ame e às vezes queremos apenas um abraço. Hoje eu quero apenas resolver aquele bendito bug." - Eu mesmo....
+>"Às vezes sonhamos em salvar o mundo, às vezes sonhamos em conseguir uma casa bacana, às vezes apenas queremos alguém que nos ame e às vezes queremos apenas um abraço. Hoje eu quero apenas resolver aquele bendito bug." 
 
 ## [💻 Veja Meu Portfolio Clicando aqui](https://www.notion.so/Meus-Blog-5c33a2863bc244d782964700d7616c7b?pvs=4)  
 
